@@ -1517,7 +1517,7 @@
 
 @media (max-width: 575px) {
   .u-section-8 .u-sheet-1 {
-    min-height: 735px;
+    min-height: 826px;
   }
 
   .u-section-8 .u-layout-wrap-1 {
@@ -1544,12 +1544,13 @@
   }
 
   .u-section-8 .u-group-2 {
-    margin-top: 171px;
+    margin-top: 291px;
     margin-right: initial;
     margin-left: initial;
   }
 
   .u-section-8 .u-icon-2 {
-    margin-bottom: -68px;
+    margin-top: -275px;
+    margin-bottom: -193px;
   }
 }
